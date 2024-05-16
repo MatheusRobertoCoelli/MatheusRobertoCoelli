@@ -1,4 +1,4 @@
-### Olá a TODOS que entraram no meu perfil maravolhoso, Meu nome é Matheus mas podem me chamar de Matty ou Mat 😄
+### Olá a TODOS que entraram no meu perfil maravilhoso, Meu nome é Matheus mas podem me chamar de Matty ou Mat 😄
 
 - Eu estudo na Alura e na escola 🏫
 - Estou me desenvolvendo a linguagem JavaScript 🤓 
